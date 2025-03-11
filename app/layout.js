@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Portfolio of Akshay Busa - Software Engineer",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "Hi, I’m Akshay Busa – a Software Engineer passionate about solving problems with clean, efficient code. Specializing in Python, I build scalable solutions that enhance productivity and streamline workflows. Always eager for new challenges, I thrive on creating impactful and innovative software. Let’s connect!",
 };
 
 export default function RootLayout({ children }) {

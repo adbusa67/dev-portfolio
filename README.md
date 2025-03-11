@@ -1,6 +1,3 @@
----
-
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
 
 ---
 
@@ -141,26 +138,26 @@ GMAIL_PASSKEY =
 EMAIL_ADDRESS =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/adbusa67/dev-portfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "AKSHAY BUSA",
   profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  designation: "Software Engineer",
+  description: "My name is Akshay Busa....",
+  email: "akshaybusa67@gmail.com",
+  phone: "+1 (343) 988-1067",
+  address: "Ottawa, Canada",
+  github: "https://github.com/adbusa67",
+  facebook: 'https://www.facebook.com/akshaybusa67/',
+  linkedIn: 'https://www.linkedin.com/in/akshay-busa-79608514b/',
+  twitter: 'https://x.com/adbusa67',
+  stackOverflow: 'https://stackoverflow.com/users/9826591/akshay-busa',
+  leetcode: "https://leetcode.com/u/adbusa67/",
+  devUsername: "adbusa67",
   resume: "...",
 };
 ```
